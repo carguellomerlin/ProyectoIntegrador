@@ -7,7 +7,7 @@ import ListaListItem from './ListaListItem'
 import Detalle from './Detalle'
 
 
-const peliculas = [
+const peliculas  = [
   {
     title: "Thor: Ragnarok 1",
     date: 'October 25, 2017',
