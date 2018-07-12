@@ -68,6 +68,8 @@ class App extends Component {
       <div className="App">
 
         <MenuNav/>
+        <Contenido/>
+
 
         <div className="py-5 bg-light">
           <div className="container">
