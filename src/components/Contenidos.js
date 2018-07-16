@@ -6,7 +6,7 @@ import HomePage from './HomePage'
 const Contenido = () =>(
 
   <Switch>
-    <Route exact path='/' component={Home} />
+    <Route exact path='/' component={HomePage} />
     <Route path='/peliculas' component={HomePage} />
     <Route path='/series' component={NotFound} />
     <Route path='/people' component={NotFound} />

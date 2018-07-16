@@ -5,7 +5,7 @@ import MenuNav from './components/MenuNav'
 import ListaGridItems from './ListaGridItems'
 import ListaListItem from './ListaListItem'
 import Detalle from './Detalle'
-
+import Contenido from './components/Contenidos'
 
 const peliculas  = [
   {

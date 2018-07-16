@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const HomePage = ({places, onSelectPlace, onRemovePlace}) => (
   <div>
     <h1>Mis Lugares</h1>
-    // {!places.length ? (
+    {// {!places.length ? (
     //   <div className="alert alert-warning" role="alert">
     //     No hay lugares cargados
     //   </div>
@@ -18,7 +18,8 @@ const HomePage = ({places, onSelectPlace, onRemovePlace}) => (
     //         </li>
     //       ))}
     //     </ul>
-    //   )}
+    //   )
+  }
   </div>
 );
 
