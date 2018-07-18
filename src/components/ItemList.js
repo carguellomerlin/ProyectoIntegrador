@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './../../App.css';
 import MyListRemoveButton from './MyListRemoveButton';
 import MyListViewButton from './MyListViewButton';
 import MyListAddButton from './MyListAddButton';

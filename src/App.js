@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import MenuNav from './components/MenuNav'
-import ListaGridItems from './ListaGridItems'
-import ListaListItem from './ListaListItem'
-import Detalle from './Detalle'
+import ListaGridItems from './components/ListaGridItems'
+import ListaListItem from './components/ListaListItem'
+import Detalle from './components/Detalle'
 import Contenido from './components/Contenidos'
 
 const peliculas  = [

@@ -1,6 +1,6 @@
 import React from 'react'
 // import {NavLink} from 'react-router-dom'
-import SearchBox from '../SearchBox.js'
+import SearchBox from './SearchBox.js'
 
 const NavMenu = () =>(
 // <nav className="navbar navbar-expand-lg navbar-light bg-light">
